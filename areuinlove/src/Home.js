@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 const Home = () => {
     return (  
         <div>
@@ -36,7 +37,9 @@ const Home = () => {
                 <li>25. You don’t need to go out, if you can stay in with him</li>        
             </ul>
             </div>
-            <h2>No idea? Take a test <button>Love Test</button></h2>
+            <h2>No idea? Take a test
+                <Link to="/take-a-test"><button className="btn-TakeATest">Love Test</button></Link> 
+            </h2>
         </div>
     );
 }

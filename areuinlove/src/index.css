@@ -30,6 +30,60 @@
 }
 .content {
   max-width: 600px;
-  margin: 40px auto;
+  margin: 10px auto;
   padding: 20px;
+}
+.question-section{
+  text-align: center;
+}
+.answer-section{
+  display:grid;
+}
+.answer-section button{
+  width: 50%;
+  padding: 8px;
+  margin: 8px auto 8px auto;
+  border-radius: 25px;
+  border-color:#ff0042;
+}
+.article-content{
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.article-content ul{
+  list-style-type: none;
+}
+.article-content li{
+  padding-top: 10px;
+}
+.btn-TakeATest{
+  padding: 6px;
+  padding-right: 16px;
+  padding-left: 16px;
+  border-radius: 8px;
+  margin-left: 12px;
+  border: 2px solid #ff0042;
+}
+.instruction-section, .result-section{
+  text-align: center;
+}
+.instruction-section button, .instruction-div button{
+  width: 20%;
+}
+.instruction-section button, .instruction-div{
+  margin: 8px;
+  padding: 6px;
+}
+.result-section{
+  height: 100px;
+  background: #ff0042;
+  color: #f3f1ef;
+  border-radius: 10px;
+  vertical-align: middle;
+  padding-top: 70px;
+}
+@media only screen and (max-width: 600px) {
+    .navbar, .content{
+      width: 100%;
+    }
 }

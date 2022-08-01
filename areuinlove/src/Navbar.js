@@ -6,7 +6,7 @@ const Navbar = () => {
       <h1>Are u In Love?</h1>
       <div className="links">
         <Link to="/">Home</Link>
-        <Link to="/create" style={{ 
+        <Link to="/take-a-test" style={{ 
           color: 'white', 
           backgroundColor: '#ff0042',
           borderRadius: '8px' 
