@@ -171,7 +171,7 @@ function App() {
                   <p>Opps! Looks like you are not in love to anyone.</p>
                 </div>
             </div> ):(
-              <div style={{display: isShownQuestion ? 'none' : 'block'}}>
+              <div className='instruction-div' style={{display: isShownQuestion ? 'none' : 'block'}}>
                <p>Look at the options presented as the answers to a question and select the one that you believes is the best fit.
               This will be the basis on what or how in love you are to the person in your mind right now.
             </p>
