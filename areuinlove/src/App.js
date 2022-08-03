@@ -199,8 +199,7 @@ function App() {
           </Route>
         </Switch>
       </div>
-      
-      <Footer/>
+      <div className='center'><Footer/></div>
     </div>
   </Router>
   );
