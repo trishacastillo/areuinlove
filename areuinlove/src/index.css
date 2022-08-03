@@ -2,7 +2,7 @@
 
 /* base styles */
 * {
-  margin: 0;
+  margin: 0 auto;
   font-family: "Quicksand";
   color: #333;
 }
@@ -70,7 +70,7 @@
 .instruction-section button, .instruction-div button{
   width: 20%;
 }
-.instruction-section button, .instruction-div{
+.instruction-section button, .instruction-div button{
   margin: 8px;
   padding: 6px;
 }
@@ -83,7 +83,7 @@
   padding-top: 70px;
 }
 @media only screen and (max-width: 600px) {
-    .navbar, .content{
+    .navbar, .content, footer{
       width: 100%;
     }
 }
