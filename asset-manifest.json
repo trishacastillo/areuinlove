@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/areuinlove/static/css/main.f5a0ac7b.css",
+    "main.css": "/areuinlove/static/css/main.6408dd72.css",
     "main.js": "/areuinlove/static/js/main.5abade02.js",
     "index.html": "/areuinlove/index.html",
-    "main.f5a0ac7b.css.map": "/areuinlove/static/css/main.f5a0ac7b.css.map",
+    "main.6408dd72.css.map": "/areuinlove/static/css/main.6408dd72.css.map",
     "main.5abade02.js.map": "/areuinlove/static/js/main.5abade02.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5a0ac7b.css",
+    "static/css/main.6408dd72.css",
     "static/js/main.5abade02.js"
   ]
 }
