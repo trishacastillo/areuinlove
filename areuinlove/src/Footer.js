@@ -2,7 +2,7 @@ const Footer = () => {
     return ( 
        
     <footer>
-        <p>Created by trishacastillo &copy; 2022 All Rights Reserved.</p>
+        <p>Made with 💛 by Trisha Castillo v2022</p>
     </footer>
       
      );
