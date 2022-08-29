@@ -1,6 +1,9 @@
-#Description
+# Description
+A simple react aplication measuring how in love you are. Created using vanilla css, javascript, and react js.
 
-https://trishacastillo.github.io/areuinlove/
+## Live Demo
+
+Link : https://trishacastillo.github.io/areuinlove/
 
 # Getting Started with Create React App
 
