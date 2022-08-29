@@ -1,5 +1,10 @@
 # Description
+
 A simple react aplication measuring how in love you are. Created using vanilla css, javascript, and react js.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/79441676/187132894-1242b722-a0bc-4796-b462-241bbb20c503.gif" alt=""/>
+</div>
 
 ## Live Demo
 
